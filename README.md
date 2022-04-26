@@ -1,5 +1,19 @@
 
-  
+ ### Olá! Eu sou a Jaiane!👋🏻
+
+
+<div>
+  <ul>
+    <li>
+     📚Participando do Bootcamp de Desenvolvedora Java FullStack Junior da Generation Brasil; 
+    </li>
+    <li>
+      💻 Estudando JAVA;
+    </li>  
+    <li>
+      👩🏻 Pronomes: Ela/She;
+    </li>
+  </ul> 
 </div>
   <a href="https://github.com/jaianeoliv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaianeoliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
