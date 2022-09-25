@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>
-     📚Participando do Bootcamp de Desenvolvedora Java FullStack Junior da Generation Brasil; 
+     📚Participei do Bootcamp de Desenvolvedora Java FullStack Junior da Generation Brasil; 
     </li>
     <li>
       💻 Estudando JAVA;
